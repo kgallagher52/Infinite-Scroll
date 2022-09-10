@@ -1,0 +1,21 @@
+{
+  "name": "react-exercise",
+  "version": "1.0.0",
+  "description": "Super simple wrapper around find-my-rep api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/currenttech/react-exercise.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
